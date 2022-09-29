@@ -1,0 +1,13 @@
+free	off
+check	http://106.55.42.160/citespace/check
+resourcesURL	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/d37d2d539c1a1df6a91bc7f7fd617c9a.zip
+WosURL	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/f9ead8d0a68ded5f5765645d7a9febcd.zip
+CNKIURL	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/8fb8a314fe6074a95c0377f2be75f135.zip
+major	6
+minor	1
+release	3
+builtDate	April 21, 2022
+valid	6.1.R2 (64-bit) beta; 6.1.R2 (64-bit); 6.1.R2 (32-bit); 6.1.R1 (64-bit) beta; 6.1.R1 (64-bit); 6.1.R1 (32-bit); 5.8.R4 (64-bit); 5.8.R3 (64-bit) beta; 5.8.R3 (64-bit); 5.8.R3 (32-bit); 5.8.R2 (64-bit); 5.8.R2 (32-bit); 5.8.R1 (64-bit); 5.8.R1 (32-bit)
+status	on
+highlights	<ul style="list-style-type:none"><li><span style=\"background-color:#e6ffe6\"><b>Website</b>: <a href="https://citespace.podia.com">https://citespace.podia.com</a></span></li><li><span style=\"background-color:yellow\"><b>How to Use CiteSpace (eBook) + CiteSpace (Advanced): </b><a href="https://citespace.podia.com/ebook-how-to-use-citespace">Upgrade with Credit Cards</a>; <a href="https://buy.stripe.com/dR6144fbc1Cae1WbIK">Upgrade with WeChat Pay or Ali Pay</a></span></li><li><b>5.8 versions will not be phased out after August 31, 2022</b></li><li><span style="color:red;"><b>Warning</b>: The citespace.podia.com is the only authorized website of CiteSpace. Any other websites selling or reselling CiteSpace are unauthorized and fraud.</span></li></ul>
+images	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/26b7d1bb806bcb058f12e4ecee780a68.jpg#http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/097906e1ba6c3891743f305a12444981.jpg
