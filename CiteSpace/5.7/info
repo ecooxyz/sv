@@ -1,0 +1,13 @@
+free	off
+check	http://106.55.42.160/citespace/check
+resourcesURL	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/22ed98f21dcc6c619a60c215f70e9d11.zip
+WosURL	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/f0740d26e2c6fb3d3f424e1b55eae51c.zip
+CNKIURL	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/83e353b23d6b375b0bef0603180e727e.zip
+major	5
+minor	7
+release	5
+builtDate	March 10, 2020
+valid	5.7.R5 (32-bit);5.7.R5 (64-bit);5.7.R5 (64-bit) beta;5.7.R5 (32-bit) W;5.7.R5 (64-bit) W
+status	on
+highlights	<ul style="list-style-type:none"><li><b>Preprint</b>: <a href="https://www.researchgate.net/publication/349159426_The_Boundary-Spanning_Mechanisms_of_Nobel_Prize_Winning_Papers/stats">Sebastian, Y., Chen, C. (Preprint) The Boundary-Spanning Mechanisms of Nobel Prize Winning Papers. arxiv:2102.04616</a></li><li><span style=\"background-color:#e6ffe6\"><b>New website</b>: <a href="https://citespace.podia.com">https://citespace.podia.com</a></span></li><li><span style=\"background-color:#e6ffe6\"><b>eBook</b>: <a href="https://leanpub.com/howtousecitespace">How to Use CiteSpace (Updated: June 25, 2020)</a></span></li></ul>
+images	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/26b7d1bb806bcb058f12e4ecee780a68.jpg#http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/097906e1ba6c3891743f305a12444981.jpg
