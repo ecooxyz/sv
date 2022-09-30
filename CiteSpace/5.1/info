@@ -1,0 +1,9 @@
+free	off
+check	http://106.55.42.160/citespace/check
+resourcesURL	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/22ed98f21dcc6c619a60c215f70e9d11.zip
+WosURL	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/f0740d26e2c6fb3d3f424e1b55eae51c.zip
+CNKIURL	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/83e353b23d6b375b0bef0603180e727e.zip
+major	5
+minor	1
+release	8
+builtDate	April 20, 2020
