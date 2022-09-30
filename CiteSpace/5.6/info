@@ -1,0 +1,11 @@
+free	off
+check	http://106.55.42.160/citespace/check
+resourcesURL	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/22ed98f21dcc6c619a60c215f70e9d11.zip
+WosURL	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/f0740d26e2c6fb3d3f424e1b55eae51c.zip
+major	5
+minor	6
+release	5
+builtDate	December 2, 2019
+status	on
+highlights	<ul style="list-style-type:none"><li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0223994" style="background-color:#FAE0DC;">Chen C, Song M (2019) Visualizing a field of research: A methodology of systematic scientometric reviews. PLoS ONE 14(10):e0223994</a></li><li><a href="https://leanpub.com/howtousecitespace" style="background-color:#F1FADC;">eBook: Heow to Use CiteSpace (Updated: Auguest 13, 2019)</a></li><li><a href="https://youtu.be/Pr5CeiIq8A0" style="background-color:#DCFAF2;">Video: CiteSpace: Creating Visualizations with Scopus (RIS) Data</a></li><li>SourceForge Projects of the Week: <a href="https://sourceforge.net/blog/projects-week-december-9-2019/">Dec 9, 2019</a>; <a href="https://sourceforge.net/blog/projects-week-july-29-2019/">July 29, 2019</a>; <a href="https://sourceforge.net/blog/projects-week-may-27-2019/">May 27, 2019</a></li></ul>
+images	http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/26b7d1bb806bcb058f12e4ecee780a68.jpg#http://aeb4ea13f8d7cd8693fb.qiniucdn.apicloud-system.com/apicloud/097906e1ba6c3891743f305a12444981.jpg
